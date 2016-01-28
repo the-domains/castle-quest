@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Castle Quest]]></title>
+        <description><![CDATA[Castle Quest]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 21:35:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://lh3.googleusercontent.com/proxy/0e-w3SiLTFvqC9ZuEBFFQjAMvCbj84Gzc1foU5e71jDUxm-o10y0vTR-QL6yPPjTBSyPe_96rsr6XFtNReESeadrXsKiDA=w408-h271">]]></description>
+            <link>https://www.google.com/maps/place/Caerphilly+Castle/@51.576459,-3.2231887,16z/data=!4m2!3m1!1s0x486e194782afe35d:0xce745b13000b5cbf</link>
+            <guid isPermaLink="false">ac70eb52-178c-4fe0-8359-88bd8cbed852</guid>
+            <pubDate>Thu, 28 Jan 2016 21:35:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
