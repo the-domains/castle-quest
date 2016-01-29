@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: This is the Description
-datePublished: '2016-01-29T19:35:02.290Z'
-dateModified: '2016-01-29T19:34:48.687Z'
+datePublished: '2016-01-29T19:56:11.424Z'
+dateModified: '2016-01-29T19:56:08.320Z'
 title: "Typing text on the first line.\_"
 author: []
+sourcePath: _posts/2016-01-29-typing-text-on-the-first-line.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-typing-text-on-the-first-line.md
-published: true
 url: typing-text-on-the-first-line/index.html
 _type: WebPage
 
