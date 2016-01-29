@@ -1,0 +1,27 @@
+---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'https://www.google.com/maps/place/Bodiam+Castle/@51.2332932,-1.7141414,8z/data=!4m2!3m1!1s0x47df17e53b1fc91f:0xa49a1915dff0aeb'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2016-01-29T18:44:12.998Z'
+dateModified: '2016-01-29T18:43:58.806Z'
+author: []
+title: "Information about Bodiam Castle - It's located in the far South East of the UK. Tours are about $12."
+authors: []
+publisher:
+  name: google.com
+  domain: www.google.com
+  url: null
+  favicon: null
+sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
+published: true
+_context: 'http://schema.org'
+_type: Article
+
+---
+# Information about Bodiam Castle - It's located in the far South East of the UK. Tours are about $12\.
+![](https://lh5.googleusercontent.com/-OefSJU0XNjQ/VpzFsTKmEhI/AAAAAAADSXE/rdVBCC_PRk0/s408-k-no/)
