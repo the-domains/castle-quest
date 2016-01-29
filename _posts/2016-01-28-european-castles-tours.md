@@ -22,7 +22,7 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://www.europeancastlestours.com/'
 title: European Castles Tours
-datePublished: '2016-01-29T18:56:23.843Z'
+datePublished: '2016-01-29T18:56:23.920Z'
 dateModified: '2016-01-29T18:56:20.715Z'
 inFeed: true
 hasPage: false
