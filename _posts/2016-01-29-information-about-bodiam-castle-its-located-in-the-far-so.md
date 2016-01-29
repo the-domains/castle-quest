@@ -7,7 +7,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T18:58:28.507Z'
+datePublished: '2016-01-29T18:58:28.523Z'
 dateModified: '2016-01-29T18:57:41.503Z'
 author: []
 title: "Information about Bodiam Castle - It's located in the far South East of the UK. Tours are about $12."
