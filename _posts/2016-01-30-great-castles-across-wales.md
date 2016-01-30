@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T03:36:36.280Z'
-dateModified: '2016-01-30T03:35:15.361Z'
+datePublished: '2016-01-30T03:47:39.600Z'
+dateModified: '2016-01-30T03:47:37.103Z'
 title: Great castles across Wales
 author: []
 sourcePath: _posts/2016-01-30-great-castles-across-wales.md
@@ -23,6 +23,6 @@ _type: Article
 
 ---
 # Great castles across Wales
-![Wales is unbeatable when it comes to castles. From defensive beginnings and the conflict of Civil War to Tudor banqueting and Victorian decadence, the architectural splendour of these fortresses always stirs the soul.](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90c81cef572c2c2f1b2e6852f36da5640818bf59.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/be3cda7b-bc68-44ee-9b91-ff681e45cf8c.png)
 
 Wales is unbeatable when it comes to castles. From defensive beginnings and the conflict of Civil War to Tudor banqueting and Victorian decadence, the architectural splendour of these fortresses always stirs the soul.
