@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.google.com/maps/place/Beaumaris+Castle/@52.4171878,-2.9451771,7.99z/data=!4m2!3m1!1s0x486501107ae68e65:0x476c0b2a9537bad0'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:53:30.793Z'
-dateModified: '2016-01-30T04:53:28.420Z'
+datePublished: '2016-01-30T05:23:18.720Z'
+dateModified: '2016-01-30T05:19:42.435Z'
 author: []
 title: 'Beaumaris Castle, ~Liverpool'
 sourcePath: _posts/2016-01-29-beaumaris-castle-liverpool.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.google.com
   url: null
   favicon: null
+url: beaumaris-castle-~liverpool/index.html
 _context: 'http://schema.org'
 _type: Article
 
