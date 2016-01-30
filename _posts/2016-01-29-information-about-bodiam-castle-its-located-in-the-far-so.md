@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T19:31:03.916Z'
-dateModified: '2016-01-29T19:30:59.575Z'
+datePublished: '2016-01-30T02:06:46.941Z'
+dateModified: '2016-01-30T02:06:43.858Z'
 author: []
 title: 'Bodiam Castle, Sussex'
 sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
@@ -31,4 +31,4 @@ Information about Bodiam Castle - It's located in the far South East of the UK. 
 * The most important part of the Motte and Bailey castle was the Keep. It was built on a huge mound and could be as tall as 80 feet (24 metres). A ditch was dug around the motte and filled with water. The sides of the motte were usually so steep they were impossible to climb.
 * The walls of the stone castles could be as thick as 33 feet. Once the cannon was created, no castles could stand that kind of attack. The cannon balls could easily destroy the stone walls no matter how thick they were.
 * At the bottom of the motte was the bailey. The bailey varied in size from one to three acres. Inside the bailey, lived the followers of the Lord who ran the castle. There were many buildings inside the bailey including houses, kitchens, storehouses, blacksmith, stables, bakeries, and quarters for soldiers. A strong wooden fence, called a palisade, surrounded the buildings.
-* ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e74a8b15-d29a-4af8-b047-f2e20c3f4035.jpg)
+*
