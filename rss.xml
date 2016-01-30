@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 06:42:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 06:43:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Conway Castle, North Wales]]></title>
@@ -46,6 +46,13 @@ Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us
             <link>https://thegrid.ai/castle-quest/europe-plans/index.html</link>
             <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bodiam Castle, Sussex]]></title>
+            <description><![CDATA[<article><h1>Bodiam Castle, Sussex</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b55451315cb61bd0ecf0ca7b891fe17e5aa2feaa.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/bodiam-castle-sussex/index.html</link>
+            <guid isPermaLink="false">ac4ec467-3949-4df8-83a3-37a36e734159</guid>
+            <pubDate>Sat, 30 Jan 2016 06:42:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Caerphilly Castle]]></title>
@@ -93,13 +100,6 @@ termed "a turning point in the history of the castle in Britain".[2]</p></articl
             <link>http://www.lonelyplanet.com/</link>
             <guid isPermaLink="false">2619eb59-289b-472f-ad6a-5cd895076bf1</guid>
             <pubDate>Sat, 30 Jan 2016 06:17:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Castles in UK]]></title>
-            <description><![CDATA[<article><h1>All Castles in UK</h1><p>Theres a lot of them</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35f4c47391d25431776c32f0e3291c05c32ceea8.png"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/all-castles-in-uk/index.html</link>
-            <guid isPermaLink="false">fee9a3c2-31bb-4415-9999-7e32f97b0e17</guid>
-            <pubDate>Sat, 30 Jan 2016 06:10:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
