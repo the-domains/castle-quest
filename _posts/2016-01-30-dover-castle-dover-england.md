@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T06:27:13.493Z'
-dateModified: '2016-01-30T06:26:48.466Z'
+datePublished: '2016-01-30T08:18:37.650Z'
+dateModified: '2016-01-30T08:18:29.263Z'
 author: []
 title: 'Dover Castle, Dover England'
 sourcePath: _posts/2016-01-30-dover-castle-dover-england.md
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Dover Castle, Dover England
-![](http://battle-castle.tv/wp-content/uploads/2014/08/C1_Dover_stills_MG_2347-1080x675.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0afbd18ff2b909bc961a2064004513dff766c8d5.jpg)
 
 Dover Castle is a medieval castle in Dover, Kent. It was
 founded in the 11th century and has been described as the "Key to
