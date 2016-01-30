@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:56:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 06:10:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/castle-quest/europe-plans/index.html</link>
             <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All Castles in UK]]></title>
+            <description><![CDATA[<article><h1>All Castles in UK</h1><p>Theres a lot of them</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e0b17ead662cb01ad720d3a6e25bcac266c0d976.png"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/all-castles-in-uk/index.html</link>
+            <guid isPermaLink="false">fee9a3c2-31bb-4415-9999-7e32f97b0e17</guid>
+            <pubDate>Sat, 30 Jan 2016 06:10:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Beaumaris Castle, ~Liverpool]]></title>
@@ -94,18 +101,6 @@ termed "a turning point in the history of the castle in Britain".[2]</p><img src
             <link>https://thegrid.ai/castle-quest/great-castles-across-wales/index.html</link>
             <guid isPermaLink="false">3a461548-e216-4f01-8e74-f7bc87230c53</guid>
             <pubDate>Sat, 30 Jan 2016 03:47:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Windsor Castle, South London]]></title>
-            <description><![CDATA[<article><h1>Windsor Castle, South London</h1><p>Windsor Castle is a royal residence at Windsor in the
-English county of Berkshire. The castle is notable for its long association
-with the English and later British royal family and also for its architecture.
-The original castle was built in the 11th century after the Norman invasion by
-William the Conqueror. Since the time of Henry I, it has been used by
-succeeding monarchs and is the longest-occupied palace in Europe. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6466429743024a42f2c2878a3c8476875ce157b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/windsor-castle-south-london/index.html</link>
-            <guid isPermaLink="false">d4749878-b716-4927-b8e9-ee59c22e5d96</guid>
-            <pubDate>Sat, 30 Jan 2016 05:23:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
