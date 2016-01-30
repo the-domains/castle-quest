@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:05:10.899Z'
+datePublished: '2016-01-30T02:05:10.931Z'
 dateModified: '2016-01-30T02:04:26.328Z'
 title: Tyler Stratton is on a journey
 author: []
