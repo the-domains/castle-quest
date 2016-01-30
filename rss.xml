@@ -4,15 +4,8 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:31:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 05:29:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Conway Castle, North Wales]]></title>
-            <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/conway-castle-north-wales/index.html</link>
-            <guid isPermaLink="false">a17cfd49-be0a-4fc5-ad25-ea5cef5d7d0a</guid>
-            <pubDate>Sat, 30 Jan 2016 05:23:21 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Bamburgh Castle, Edinburgh North UK]]></title>
             <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/169d98d8d0d46eb770771b99cbb11314e065129a.jpg"></article>]]></description>
@@ -80,7 +73,7 @@ Caernarfon was recaptured the following year. During the Glyndŵr Rising of
 1400–1415, the castle was besieged. When the Tudor dynasty ascended to the
 English throne in 1485, tensions between the Welsh and English began to
 diminish and castles were considered less important. As a result, Caernarfon
-Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a27f4d1f89e70c7d7c1670f27e5aff4734afef96.jpg"></article>]]></description>
+Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/504cf5d73a6919f3eaaae8913fddf9e4ee50f71b.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/caernarfon-castle-west-wales/index.html</link>
             <guid isPermaLink="false">1887a679-98c0-4f9d-874e-8ad546441418</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:13 GMT</pubDate>
@@ -88,9 +81,9 @@ Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us
         <item>
             <title><![CDATA[Beaumaris Castle, ~Liverpool]]></title>
             <description><![CDATA[<article><h1>Beaumaris Castle, ~Liverpool</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3432779eba7fe60907268cbffa12aed1e70c62fb.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/beaumaris-castle-~liverpool/index.html</link>
+            <link>https://www.google.com/maps/place/Beaumaris+Castle/@52.4171878,-2.9451771,7.99z/data=!4m2!3m1!1s0x486501107ae68e65:0x476c0b2a9537bad0</link>
             <guid isPermaLink="false">3fe9d509-f6cb-498a-bcb1-c3fffb27d895</guid>
-            <pubDate>Sat, 30 Jan 2016 05:23:18 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 04:53:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[European Castles Tours]]></title>
@@ -105,6 +98,26 @@ Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us
             <link>https://thegrid.ai/castle-quest/bodiam-castle-sussex/index.html</link>
             <guid isPermaLink="false">ac4ec467-3949-4df8-83a3-37a36e734159</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Raglan Castle, Wales]]></title>
+            <description><![CDATA[<article><h1>Raglan Castle, Wales</h1><p>Raglan Castle (Welsh: Castell Rhaglan) is a late medieval
+castle located just north of the village of Raglan in the county of
+Monmouthshire in south east Wales. The modern castle dates from between the
+15th and early 17th-centuries, when the successive ruling families of the
+Herberts and the Somersets created a luxurious, fortified castle, complete with
+a large hexagonal keep, known as the Great Tower or the Yellow Tower of Gwent.
+Surrounded by parkland, water gardens and terraces, the castle was considered
+by contemporaries to be the equal of any other in England or Wales. During the
+English Civil War the castle was held on behalf of Charles I and was taken by
+Parliamentary forces in 1646. In the aftermath, the castle was slighted, or
+deliberately put beyond military use; after the restoration of Charles II, the
+Somersets declined to restore the castle. Raglan Castle became first a source
+of local building materials, then a romantic ruin, and is now a modern tourist
+attraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3caa812102512586b146b2433b7baf6c4b7f2d1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
+            <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
+            <pubDate>Sat, 30 Jan 2016 03:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
