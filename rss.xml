@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:36:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 05:50:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/castle-quest/europe-plans/index.html</link>
             <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Trim Castle, Ireland (alt)]]></title>
+            <description><![CDATA[<article><h1>Trim Castle, Ireland (alt)</h1><p>Braveheart was filmed here. When they assault the front. Pretty awesome. But it's in Ireland and so far it's the only real one. So we'll see. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d62ae8f53bfef17c3d41efd0793fee3d558b097a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/trim-castle-ireland-alt/index.html</link>
+            <guid isPermaLink="false">d3d57fde-ed20-4968-852f-74f490e21b3f</guid>
+            <pubDate>Sat, 30 Jan 2016 05:49:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alnwick Castle, North UK]]></title>
@@ -43,7 +50,14 @@ by contemporaries to be the equal of any other in England or Wales. </p><img sr
         </item>
         <item>
             <title><![CDATA[Bamburgh Castle, Edinburgh North UK]]></title>
-            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>undefined</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90183a0110034dfdd070cfdd8034fd90ef1f1041.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>King Arthur (2004) was filmed here! Built on a dolerite outcrop, the location was previously
+home to a fort of the native Britons known as Din Guarie and may have been the
+capital of the British kingdom of the region (see Gododdin, Bryneich and Hen
+Ogledd)[2] from the realm's foundation in c.420 until 547, the year of the
+first written reference to the castle. In that year the citadel was captured by
+the Anglo-Saxon ruler Ida of Bernicia (Beornice) and became Ida's seat. It was
+briefly retaken by the Britons from his son Hussa during the war of 590 before
+being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90183a0110034dfdd070cfdd8034fd90ef1f1041.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
             <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
             <pubDate>Sat, 30 Jan 2016 05:33:50 GMT</pubDate>
@@ -95,23 +109,6 @@ the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/t
             <link>https://thegrid.ai/castle-quest/dover-castle-dover-england/index.html</link>
             <guid isPermaLink="false">949f8100-3a9f-4fdb-8b22-7b64f953383b</guid>
             <pubDate>Sat, 30 Jan 2016 05:22:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caernarfon Castle, West Wales]]></title>
-            <description><![CDATA[<article><h1>Caernarfon Castle, West Wales</h1><p>While the castle was under construction, town walls were
-built around Caernarfon. The work cost between £20,000 and £25,000 from the
-start until the end of work in 1330. Despite Caernarfon Castle's external
-appearance of being mostly complete, the interior buildings no longer survive
-and many of the building plans were never finished. The town and castle were
-sacked in 1294 when Madog ap Llywelyn led a rebellion against the English.
-Caernarfon was recaptured the following year. During the Glyndŵr Rising of
-1400–1415, the castle was besieged. When the Tudor dynasty ascended to the
-English throne in 1485, tensions between the Welsh and English began to
-diminish and castles were considered less important. As a result, Caernarfon
-Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a27f4d1f89e70c7d7c1670f27e5aff4734afef96.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/caernarfon-castle-west-wales/index.html</link>
-            <guid isPermaLink="false">1887a679-98c0-4f9d-874e-8ad546441418</guid>
-            <pubDate>Sat, 30 Jan 2016 05:23:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
