@@ -1,11 +1,10 @@
 ---
-author: []
-related: []
-publisher:
-  url: 'http://www.hostels.com'
-  name: Hostels
-  favicon: 'http://www.hostels.com/favicon.ico'
-  domain: www.hostels.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.hostels.com/'
+inLanguage: en
+starred: false
 keywords:
   - hostels
   - travel
@@ -18,19 +17,25 @@ keywords:
   - foodies
   - wonderland
 description: 'Make your trip go further with Hostels.com. We offer the most comprehensive selection of hostels on the internet with over 35,000 hostels in 180 countries. Bringing you great value and providing a service that is fuss free, reliable and frankly brilliant! Hostels.com the ultimate resource for great value accommodation all over the world.'
-inLanguage: en
+datePublished: '2016-01-30T08:03:11.498Z'
+dateModified: '2016-01-30T08:03:04.464Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.hostels.com/'
-title: 'Hostels.com - Great deals on hostels anywhere!'
-datePublished: '2016-01-30T06:17:44.184Z'
-dateModified: '2016-01-30T06:11:27.193Z'
+title: 'Travel Website & Guides'
 sourcePath: _posts/2016-01-30-hostelscom-great-deals-on-hostels-anywhere.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Hostels
+  domain: www.hostels.com
+  url: 'http://www.hostels.com'
+  favicon: 'http://www.hostels.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Hostels&amp;period;com - Great deals on hostels anywhere&amp;excl;</h1><p>Make your trip go further with Hostels&amp;period;com&amp;period; We offer the most comprehensive selection of hostels on the internet with over 35&amp;comma;000 hostels in 180 countries&amp;period; Bringing you great value and providing a service that is fuss free&amp;comma; reliable and frankly brilliant&amp;excl; Hostels&amp;period;com the ultimate resource for great value accommodation all over the world&amp;period;</p><img src="http://ihccd.hwstatic.com/static/img/1.20.0.0/sharedimage.png" /></article>
+# Travel Website & Guides
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/abcef348-991a-4a59-8410-18e43f4fe16a.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3fdced54-9926-43de-9f83-400ae88e17be.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8686840-f100-451a-822d-e494fd58afa4.png)
