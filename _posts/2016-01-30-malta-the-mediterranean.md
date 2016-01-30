@@ -6,23 +6,23 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T07:00:44.782Z'
-dateModified: '2016-01-30T07:00:36.530Z'
-title: 'Malta, The Mediterranean'
+datePublished: '2016-01-30T07:54:40.304Z'
+dateModified: '2016-01-30T07:54:37.194Z'
+title: The Island of Malta
 author: []
+sourcePath: _posts/2016-01-30-malta-the-mediterranean.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-malta-the-mediterranean.md
-published: true
 url: malta-the-mediterranean/index.html
 _type: Article
 
 ---
-# Malta, The Mediterranean
+# The Island of Malta
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d3bac6-a716-4925-927f-db121447ec31.png)
 
 Marian and Brian live somewhere on Malta. Working out where and how exactly to get there and back out again. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84363039-a910-4934-a0dd-cf7dc769dafa.jpg)
