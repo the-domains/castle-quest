@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:23:03.016Z'
-dateModified: '2016-01-30T05:19:56.375Z'
+datePublished: '2016-01-30T08:17:54.717Z'
+dateModified: '2016-01-30T08:17:51.489Z'
 author: []
 title: 'Windsor Castle, South London'
 sourcePath: _posts/2016-01-30-windsor-castle-south-london.md
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Windsor Castle, South London
-![](http://theenchantedmanor.com/wp-content/uploads/2015/05/Windsor-Castle-aerial-view.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6466429743024a42f2c2878a3c8476875ce157b.jpg)
 
 Windsor Castle is a royal residence at Windsor in the
 English county of Berkshire. The castle is notable for its long association
