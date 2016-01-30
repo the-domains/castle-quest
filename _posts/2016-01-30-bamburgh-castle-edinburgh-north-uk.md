@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:10:58.584Z'
-dateModified: '2016-01-30T05:10:45.128Z'
+datePublished: '2016-01-30T05:22:46.938Z'
+dateModified: '2016-01-30T05:20:05.246Z'
 author: []
 title: 'Bamburgh Castle, Edinburgh North UK'
+sourcePath: _posts/2016-01-30-bamburgh-castle-edinburgh-north-uk.md
+published: true
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-bamburgh-castle-edinburgh-north-uk.md
-published: true
 url: bamburgh-castle-edinburgh-north-uk/index.html
 _context: 'http://schema.org'
 _type: Article
