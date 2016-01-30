@@ -16,7 +16,7 @@ keywords:
   - foodies
   - wonderland
 description: 'Make your trip go further with Hostels.com. We offer the most comprehensive selection of hostels on the internet with over 35,000 hostels in 180 countries. Bringing you great value and providing a service that is fuss free, reliable and frankly brilliant! Hostels.com the ultimate resource for great value accommodation all over the world.'
-datePublished: '2016-01-30T08:12:33.022Z'
+datePublished: '2016-01-30T08:12:33.096Z'
 dateModified: '2016-01-30T08:12:29.841Z'
 author: []
 related: []
