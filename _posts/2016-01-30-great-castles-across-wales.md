@@ -17,20 +17,20 @@ keywords:
   - tower
   - tudor
 description: 'Wales is unbeatable when it comes to castles. From defensive beginnings and the conflict of Civil War to Tudor banqueting and Victorian decadence, the architectural splendour of these fortresses always stirs the soul.'
-datePublished: '2016-01-30T03:08:50.736Z'
-dateModified: '2016-01-30T03:08:47.737Z'
+datePublished: '2016-01-30T03:23:42.896Z'
+dateModified: '2016-01-30T03:15:30.675Z'
 author: []
 related: []
 app_links: []
 title: Great castles across Wales
+sourcePath: _posts/2016-01-30-great-castles-across-wales.md
+published: true
 authors: []
 publisher:
   name: Visitwales
   domain: www.visitwales.com
   url: 'http://www.visitwales.com'
   favicon: 'http://www.visitwales.com/favicon.ico'
-sourcePath: _posts/2016-01-30-great-castles-across-wales.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
