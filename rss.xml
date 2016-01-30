@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Strattonia Castles]]></title>
-        <description><![CDATA[Strattonia Castles]]></description>
+        <title><![CDATA[The Strattonian Castles]]></title>
+        <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 03:08:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 03:17:03 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -82,7 +82,7 @@ the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/t
             <description><![CDATA[<article><h1>Raglan Castle, Wales</h1><p>Located near Caerphilly Castle. Probably worth checking out. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a1009898d142fc776f873031aed8ab4c3de28bb.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
             <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
-            <pubDate>Sat, 30 Jan 2016 02:19:45 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 03:16:12 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conway Castle, North Wales]]></title>
