@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T08:11:10.436Z'
-dateModified: '2016-01-30T08:11:05.188Z'
+datePublished: '2016-01-30T08:47:19.293Z'
+dateModified: '2016-01-30T08:47:14.632Z'
 title: The Island of Malta
 author: []
 sourcePath: _posts/2016-01-30-malta-the-mediterranean.md
@@ -25,7 +25,7 @@ _type: Article
 # The Island of Malta
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d3bac6-a716-4925-927f-db121447ec31.png)
 
-Marian and Brian live somewhere on Malta. Working out where and how exactly to get there and back out again. 
+Marian and Brian live in Balzan on Malta. It's possible to fly into Catalina, then fly/boat over to Malta from there. Will keep an eye on the flight plans. Thinking of spending 3/4 days there with them. Pending research. 
 
 ## Wiki Article about Malta
 
