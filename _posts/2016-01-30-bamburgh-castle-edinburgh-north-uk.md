@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:22:47.040Z'
-dateModified: '2016-01-30T05:20:05.246Z'
+datePublished: '2016-01-30T05:29:39.983Z'
+dateModified: '2016-01-30T05:29:35.744Z'
 author: []
 title: 'Bamburgh Castle, Edinburgh North UK'
 sourcePath: _posts/2016-01-30-bamburgh-castle-edinburgh-north-uk.md
@@ -26,7 +26,7 @@ _type: Article
 , 
 
 # Bamburgh Castle, Edinburgh North UK
-![](https://meganabigailwhite.files.wordpress.com/2013/09/img_2566.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/169d98d8d0d46eb770771b99cbb11314e065129a.jpg)
 
 Built on a dolerite outcrop, the location was previously
 home to a fort of the native Britons known as Din Guarie and may have been the
