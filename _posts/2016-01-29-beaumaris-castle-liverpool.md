@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:41:38.296Z'
-dateModified: '2016-01-30T04:41:35.528Z'
+datePublished: '2016-01-30T04:41:57.485Z'
+dateModified: '2016-01-30T04:41:55.157Z'
 author: []
 title: 'Beaumaris Castle, ~Liverpool'
 sourcePath: _posts/2016-01-29-beaumaris-castle-liverpool.md
