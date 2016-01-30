@@ -4,8 +4,22 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:31:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 05:31:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Raglan Castle, Wales]]></title>
+            <description><![CDATA[<article><h1>Raglan Castle, Wales</h1><p>Raglan Castle (Welsh: Castell Rhaglan) is a late medieval
+castle located just north of the village of Raglan in the county of
+Monmouthshire in south east Wales. The modern castle dates from between the
+15th and early 17th-centuries, when the successive ruling families of the
+Herberts and the Somersets created a luxurious, fortified castle, complete with
+a large hexagonal keep, known as the Great Tower or the Yellow Tower of Gwent.
+Surrounded by parkland, water gardens and terraces, the castle was considered
+by contemporaries to be the equal of any other in England or Wales. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a1009898d142fc776f873031aed8ab4c3de28bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
+            <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
+            <pubDate>Sat, 30 Jan 2016 05:23:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Conway Castle, North Wales]]></title>
             <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
@@ -98,13 +112,6 @@ Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us
             <link>http://www.europeancastlestours.com/</link>
             <guid isPermaLink="false">7459cd9c-0f17-4c84-9118-d8653ada7f90</guid>
             <pubDate>Fri, 29 Jan 2016 18:56:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bodiam Castle, Sussex]]></title>
-            <description><![CDATA[<article><h1>Bodiam Castle, Sussex</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f4b56839d10d08ff59908a0696c24d15e89a8e1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/bodiam-castle-sussex/index.html</link>
-            <guid isPermaLink="false">ac4ec467-3949-4df8-83a3-37a36e734159</guid>
-            <pubDate>Sat, 30 Jan 2016 05:23:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
