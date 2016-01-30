@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:54:29.040Z'
-dateModified: '2016-01-30T05:54:25.831Z'
+datePublished: '2016-01-30T08:17:20.709Z'
+dateModified: '2016-01-30T08:17:16.238Z'
 author: []
 title: 'Beaumaris Castle, ~Liverpool'
 sourcePath: _posts/2016-01-29-beaumaris-castle-liverpool.md
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Beaumaris Castle, ~Liverpool
-![](https://lh3.googleusercontent.com/-4p1W1OLws9c/VGxYKTHLpoI/AAAAAAAAABg/8ZPiJJXtrRk/s410-k-no/)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3432779eba7fe60907268cbffa12aed1e70c62fb.jpg)
 
 Beaumaris Castle, located in the town of the same name on
 the Isle of Anglesey in Wales, was built as part of Edward I's campaign to
