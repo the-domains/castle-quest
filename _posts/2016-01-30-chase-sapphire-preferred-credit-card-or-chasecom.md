@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T08:12:37.714Z'
-dateModified: '2016-01-30T08:12:31.096Z'
+datePublished: '2016-01-30T21:01:23.099Z'
+dateModified: '2016-01-30T21:01:11.217Z'
 author: []
 related: []
 app_links: []
@@ -45,7 +45,7 @@ Fun = ~$500
 
 - $500 for Credit card bonus
 
--$1000 total B-day donations
+-$1000 total donations? (Complete guess)
 
 ## Total $4300-$1500 = $2,800
 
