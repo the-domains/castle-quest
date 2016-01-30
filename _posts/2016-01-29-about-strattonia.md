@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T07:41:46.432Z'
-dateModified: '2016-01-30T07:41:43.626Z'
+datePublished: '2016-01-30T08:07:30.179Z'
+dateModified: '2016-01-30T08:07:26.508Z'
 title: "Tyler's Journey"
 author: []
 sourcePath: _posts/2016-01-29-about-strattonia.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # Tyler's Journey
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da1cddf05ce2bb7e982f607c5c3d0696eab8f79.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e4085598-83d8-4e36-b29a-43bd6b6f65c5.JPG)
 
 My 30th Birthday is coming up (July 8th) and recently I thought about what is the coolest possible thing I could do to celebrate (within the natural laws of physics that is). I always love parties with my loved one but I felt I should think bigger this year. I pondered what are the coolest things you've ever done Tyler? Heres a short highlights list:
 
@@ -44,6 +44,7 @@ Which brings us here. I'm going to try and take a 2-3 week Backpacking trip thro
 ## 2\. Travel to the UK to see Castles in Wales, Sussex and South of London. 
 
 ## 3\. Do something totally not planned.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da1cddf05ce2bb7e982f607c5c3d0696eab8f79.jpg)
 
 Right now I'm in the process of planning the trip and finding the castles I'd like to see. This website is a creation of "The Grid" which I'm beta testing. 
 
