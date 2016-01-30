@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:16:14.313Z'
-dateModified: '2016-01-30T02:16:05.875Z'
+datePublished: '2016-01-30T02:40:11.383Z'
+dateModified: '2016-01-30T02:40:08.251Z'
 title: Tyler Stratton is on a Journey
 author: []
 sourcePath: _posts/2016-01-29-about-strattonia.md
