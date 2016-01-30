@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T08:07:30.280Z'
+datePublished: '2016-01-30T08:07:30.262Z'
 dateModified: '2016-01-30T08:07:26.508Z'
 title: "Tyler's Journey"
 author: []
