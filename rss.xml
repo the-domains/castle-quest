@@ -4,8 +4,22 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 08:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 08:31:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bamburgh Castle, Edinburgh North UK]]></title>
+            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>King Arthur (2004) was filmed here! Built on a dolerite outcrop, the location was previously
+home to a fort of the native Britons known as Din Guarie and may have been the
+capital of the British kingdom of the region (see Gododdin, Bryneich and Hen
+Ogledd)[2] from the realm's foundation in c.420 until 547, the year of the
+first written reference to the castle. In that year the citadel was captured by
+the Anglo-Saxon ruler Ida of Bernicia (Beornice) and became Ida's seat. It was
+briefly retaken by the Britons from his son Hussa during the war of 590 before
+being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ec89f0dbe4bda455785f57ba57c45008b47279bd.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
+            <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
+            <pubDate>Sat, 30 Jan 2016 08:19:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Windsor Castle, South London]]></title>
             <description><![CDATA[<article><h1>Windsor Castle, South London</h1><p>Windsor Castle is a royal residence at Windsor in the
@@ -44,7 +58,7 @@ succeeding monarchs and is the longest-occupied palace in Europe. </p><img src=
             <description><![CDATA[<article><h1>Dover Castle, Dover England</h1><p>Dover Castle is a medieval castle in Dover, Kent. It was
 founded in the 11th century and has been described as the "Key to
 England" due to its defensive significance throughout history. It is
-the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0afbd18ff2b909bc961a2064004513dff766c8d5.jpg"></article>]]></description>
+the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fc80a372560093ad79bfec8ebf9e8c2cf9dfde8.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/dover-castle-dover-england/index.html</link>
             <guid isPermaLink="false">949f8100-3a9f-4fdb-8b22-7b64f953383b</guid>
             <pubDate>Sat, 30 Jan 2016 08:18:37 GMT</pubDate>
@@ -93,13 +107,6 @@ by contemporaries to be the equal of any other in England or Wales. </p><img sr
             <link>https://thegrid.ai/castle-quest/travel-and-guides/index.html</link>
             <guid isPermaLink="false">7090b286-4482-4feb-8164-cb73ebefe8f8</guid>
             <pubDate>Sat, 30 Jan 2016 08:12:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tyler's Journey]]></title>
-            <description><![CDATA[<article><h1>Tyler's Journey</h1><p>My 30th Birthday is coming up (July 8th) and recently I thought about what is the coolest possible thing I could do to celebrate (within the natural laws of physics that is). I always love parties with my loved one but I felt I should think bigger this year. I pondered what are the coolest things you've ever done Tyler? Heres a short highlights list:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15b14709ff7dca508a4266c363150e4b1459c131.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/about-strattonia/index.html</link>
-            <guid isPermaLink="false">9433e6d1-b6f9-47e4-8e8d-990d5be6918e</guid>
-            <pubDate>Sat, 30 Jan 2016 08:07:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
