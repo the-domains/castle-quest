@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 06:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 06:19:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Sat, 30 Jan 2016 05:23:36 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Stay with Locals and Make Travel Friends | Couchsurfing]]></title>
+            <description><![CDATA[<article><h1>Stay with Locals and Make Travel Friends | Couchsurfing</h1><p>Couchsurfers share their homes, cities and lives in profound in meaningful ways, making travel anywhere in the world a truly social experience.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b3919c86397dcbc613af769113ee490671130bc.png"></article>]]></description>
+            <link>https://www.couchsurfing.com/</link>
+            <guid isPermaLink="false">ac70281a-6834-45f6-9f97-7e47d45e60b4</guid>
+            <pubDate>Sat, 30 Jan 2016 06:17:44 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Chase Sapphire Preferred Credit Card | Chase.com]]></title>
-            <description><![CDATA[<article><h1>Chase Sapphire Preferred Credit Card | Chase.com</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4e557d97274ac1ae7d2a325f5b8a8cfa639708f3.png"></article>]]></description>
+            <description><![CDATA[<article><h1>Chase Sapphire Preferred Credit Card | Chase.com</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf1395969265f4564df2c56543b3b76652bde665.png"></article>]]></description>
             <link>https://creditcards.chase.com/a1/sapphire/apply50?CELL=6RRW&amp;kwdID=HqQ6w1Ld_dc&amp;adgrpID=91225374266&amp;jp_cmp=cc%2FSapphire+Preferred+-+Brand+-+Exact%2Fsea%2FHqQ6w1Ld%2FChase+Sapphire+-+Rewards</link>
             <guid isPermaLink="false">d164e12f-ae18-4787-b2f0-e1fa87903b9a</guid>
             <pubDate>Sat, 30 Jan 2016 06:17:44 GMT</pubDate>
@@ -75,13 +82,6 @@ by contemporaries to be the equal of any other in England or Wales. </p><img sr
             <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
             <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conway Castle, North Wales]]></title>
-            <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/conway-castle-north-wales/index.html</link>
-            <guid isPermaLink="false">a17cfd49-be0a-4fc5-ad25-ea5cef5d7d0a</guid>
-            <pubDate>Sat, 30 Jan 2016 05:23:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
