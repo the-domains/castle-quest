@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:41:57.620Z'
-dateModified: '2016-01-30T04:41:55.157Z'
+datePublished: '2016-01-30T04:53:30.634Z'
+dateModified: '2016-01-30T04:53:28.420Z'
 author: []
 title: 'Beaumaris Castle, ~Liverpool'
 sourcePath: _posts/2016-01-29-beaumaris-castle-liverpool.md
@@ -37,7 +37,9 @@ however, and work stopped, only recommencing after an invasion scare in 1306\.
 When work finally ceased around 1330 a total of £15,000 had been spent, a huge
 sum for the period, but the castle remained incomplete.
 
-Beaumaris Castle was taken by Welsh forces in 1403 during
+## Beaumaris Castle 
+
+was taken by Welsh forces in 1403 during
 the Owain Glyndŵr rebellion, but recaptured by royal forces in 1405\. Following
 the outbreak of the English Civil War in 1642, the castle was held by forces
 loyal to Charles I, holding out until 1646 when it surrendered to the
