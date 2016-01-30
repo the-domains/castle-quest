@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T07:51:17.078Z'
-dateModified: '2016-01-30T07:51:13.851Z'
+datePublished: '2016-01-30T08:08:00.258Z'
+dateModified: '2016-01-30T08:07:56.645Z'
 title: Why Castles?
 author: []
 sourcePath: _posts/2016-01-30-why-castles.md
@@ -23,9 +23,9 @@ _type: WebPage
 
 ---
 # Why Castles?
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8f8700b4-9dab-4b54-8bcd-ec2c16e0303a.JPG)
+![Braveheart](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b49042a6-823b-4487-bfb8-6feca09fc7a9.JPG)
 
-This is where I'm going to put into words why I love Knights, Castles and Dragons so much. ![Braveheart](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b49042a6-823b-4487-bfb8-6feca09fc7a9.JPG)
+This is where I'm going to put into words why I love Knights, Castles and Dragons so much. 
 
 ## Movies made me do it. 
 
