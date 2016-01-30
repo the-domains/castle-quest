@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:53:50.336Z'
-dateModified: '2016-01-30T02:53:48.003Z'
+datePublished: '2016-01-30T05:22:58.347Z'
+dateModified: '2016-01-30T05:19:23.083Z'
 title: "Tyler's Journey"
 author: []
 sourcePath: _posts/2016-01-29-about-strattonia.md
