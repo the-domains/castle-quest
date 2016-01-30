@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:40:11.428Z'
-dateModified: '2016-01-30T02:40:08.251Z'
-title: Tyler Stratton is on a Journey
+datePublished: '2016-01-30T02:53:50.320Z'
+dateModified: '2016-01-30T02:53:48.003Z'
+title: "Tyler's Journey"
 author: []
 sourcePath: _posts/2016-01-29-about-strattonia.md
 published: true
@@ -22,7 +22,7 @@ url: about-strattonia/index.html
 _type: WebPage
 
 ---
-# Tyler Stratton is on a Journey
+# Tyler's Journey
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da1cddf05ce2bb7e982f607c5c3d0696eab8f79.jpg)
 
 My 30th Birthday is coming up (July 8th) and recently I thought about what is the coolest possible thing I could do to celebrate (within the natural laws of physics that is). I always love parties with my loved one but I felt I should think bigger this year. I pondered what are the coolest things you've ever done Tyler? Heres a short highlights list:
