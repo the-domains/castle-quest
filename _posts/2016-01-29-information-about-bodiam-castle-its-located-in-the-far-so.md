@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:40:39.201Z'
-dateModified: '2016-01-30T02:40:37.087Z'
+datePublished: '2016-01-30T03:39:05.403Z'
+dateModified: '2016-01-30T03:39:01.681Z'
 author: []
 title: 'Bodiam Castle, Sussex'
 sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
@@ -26,9 +26,35 @@ _type: Article
 # Bodiam Castle, Sussex
 ![](https://lh5.googleusercontent.com/-OefSJU0XNjQ/VpzFsTKmEhI/AAAAAAADSXE/rdVBCC_PRk0/s408-k-no/)
 
-Information about Bodiam Castle - It's located in the far South East of the UK. Tours are about $12\.
+Bodiam Castle (/ˈboʊdiəm/) is a 14th-century moated castle
+near Robertsbridge in East Sussex, England. It was built in 1385 by Sir Edward
+Dalyngrigge, a former knight of Edward III, with the permission of Richard II,
+ostensibly to defend the area against French invasion during the Hundred Years'
+War. Of quadrangular plan, Bodiam Castle has no keep, having its various
+chambers built around the outer defensive walls and inner courts. Its corners
+and entrance are marked by towers, and topped by crenellations. Its structure,
+details and situation in an artificial watery landscape indicate that display
+was an important aspect of the castle's design as well as defence. It was the
+home of the Dalyngrigge family and the centre of the manor of Bodiam.
 
-* The most important part of the Motte and Bailey castle was the Keep. It was built on a huge mound and could be as tall as 80 feet (24 metres). A ditch was dug around the motte and filled with water. The sides of the motte were usually so steep they were impossible to climb.
-* The walls of the stone castles could be as thick as 33 feet. Once the cannon was created, no castles could stand that kind of attack. The cannon balls could easily destroy the stone walls no matter how thick they were.
-* At the bottom of the motte was the bailey. The bailey varied in size from one to three acres. Inside the bailey, lived the followers of the Lord who ran the castle. There were many buildings inside the bailey including houses, kitchens, storehouses, blacksmith, stables, bakeries, and quarters for soldiers. A strong wooden fence, called a palisade, surrounded the buildings.
-*
+Possession of Bodiam Castle passed through several
+generations of Dalyngrigges, until their line became extinct, when the castle
+passed by marriage to the Lewknor family. During the Wars of the Roses, Sir
+Thomas Lewknor supported the House of Lancaster, and when Richard III of the
+House of York became king in 1483, a force was despatched to besiege Bodiam
+Castle. It is unrecorded whether the siege went ahead, but it is thought that
+Bodiam was surrendered without much resistance. The castle was confiscated, but
+returned to the Lewknors when Henry VII of the House of Lancaster became king
+in 1485\. Descendants of the Lewknors owned the castle until at least the 16th
+century.
+
+By the start of the English Civil War in 1641, Bodiam Castle
+was in the possession of Lord Thanet. He supported the Royalist cause, and sold
+the castle to help pay fines levied against him by Parliament. The castle was
+subsequently dismantled, and was left as a picturesque ruin until its purchase
+by John Fuller in 1829\. Under his auspices, the castle was partially restored
+before being sold to George Cubitt, 1st Baron Ashcombe, and later to Lord
+Curzon, both of whom undertook further restoration work. The castle is
+protected as a Grade I listed building and Scheduled Monument. It has been
+owned by The National Trust since 1925, donated by Lord Curzon on his death,
+and is open to the public.
