@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:52:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 05:54:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/castle-quest/europe-plans/index.html</link>
             <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:36 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Beaumaris Castle, ~Liverpool]]></title>
+            <description><![CDATA[<article><h1>Beaumaris Castle, ~Liverpool</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3432779eba7fe60907268cbffa12aed1e70c62fb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/beaumaris-castle-~liverpool/index.html</link>
+            <guid isPermaLink="false">3fe9d509-f6cb-498a-bcb1-c3fffb27d895</guid>
+            <pubDate>Sat, 30 Jan 2016 05:54:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Trim Castle, Ireland (alt)]]></title>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Alnwick Castle, North UK]]></title>
-            <description><![CDATA[<article><h1>Alnwick Castle, North UK</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79befb29ac0970176957df52cf9a0ad974fc3478.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Alnwick Castle, North UK</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dd315eaf6421c44cc48f23995c4cfd70ef0d174f.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/alnwick-castle-north-uk/index.html</link>
             <guid isPermaLink="false">95ed1a66-c25c-4601-9758-11c2544be6ae</guid>
             <pubDate>Sat, 30 Jan 2016 05:26:20 GMT</pubDate>
@@ -57,7 +64,7 @@ Ogledd)[2] from the realm's foundation in c.420 until 547, the year of the
 first written reference to the castle. In that year the citadel was captured by
 the Anglo-Saxon ruler Ida of Bernicia (Beornice) and became Ida's seat. It was
 briefly retaken by the Britons from his son Hussa during the war of 590 before
-being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90183a0110034dfdd070cfdd8034fd90ef1f1041.jpg"></article>]]></description>
+being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a745ecee73cd45127a976a80f5b087ca206e2b86.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
             <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
             <pubDate>Sat, 30 Jan 2016 05:51:06 GMT</pubDate>
@@ -99,16 +106,6 @@ succeeding monarchs and is the longest-occupied palace in Europe. </p><img src=
             <link>https://thegrid.ai/castle-quest/windsor-castle-south-london/index.html</link>
             <guid isPermaLink="false">d4749878-b716-4927-b8e9-ee59c22e5d96</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dover Castle, Dover England]]></title>
-            <description><![CDATA[<article><h1>Dover Castle, Dover England</h1><p>Dover Castle is a medieval castle in Dover, Kent. It was
-founded in the 11th century and has been described as the "Key to
-England" due to its defensive significance throughout history. It is
-the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/047fcc199337a87fa19e6743fa083c02474cafa1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/dover-castle-dover-england/index.html</link>
-            <guid isPermaLink="false">949f8100-3a9f-4fdb-8b22-7b64f953383b</guid>
-            <pubDate>Sat, 30 Jan 2016 05:22:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
