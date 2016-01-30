@@ -1,24 +1,24 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.google.com/search?q=Windsor+Castle&source=lnms&tbm=isch&sa=X&ved=0ahUKEwjhlbSPvdDKAhVN52MKHYSHD_sQ_AUIBygB&biw=1311&bih=778#tbm=isch&q=Windsor+Castle%2C+england&imgrc=nkwlN15yZUKBSM%3A'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:29:59.585Z'
-dateModified: '2016-01-30T02:29:49.922Z'
+datePublished: '2016-01-30T05:23:03.016Z'
+dateModified: '2016-01-30T05:19:56.375Z'
 author: []
 title: 'Windsor Castle, South London'
+sourcePath: _posts/2016-01-30-windsor-castle-south-london.md
+published: true
 authors: []
 publisher:
   name: google.com
   domain: www.google.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-windsor-castle-south-london.md
-published: true
+url: windsor-castle-south-london/index.html
 _context: 'http://schema.org'
 _type: Article
 
@@ -31,7 +31,9 @@ English county of Berkshire. The castle is notable for its long association
 with the English and later British royal family and also for its architecture.
 The original castle was built in the 11th century after the Norman invasion by
 William the Conqueror. Since the time of Henry I, it has been used by
-succeeding monarchs and is the longest-occupied palace in Europe. The castle's
+succeeding monarchs and is the longest-occupied palace in Europe. 
+
+The castle's
 lavish, early 19th-century State Apartments are architecturally significant,
 described by art historian Hugh Roberts as "a superb and unrivalled
 sequence of rooms widely regarded as the finest and most complete expression of
