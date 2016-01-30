@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:40:02.458Z'
-dateModified: '2016-01-30T04:39:58.862Z'
+datePublished: '2016-01-30T04:53:05.737Z'
+dateModified: '2016-01-30T04:53:03.208Z'
 author: []
 title: 'Dover Castle, Dover England'
 sourcePath: _posts/2016-01-30-dover-castle-dover-england.md
@@ -50,7 +50,7 @@ remains of the other are located on the opposing Western Heights, across the
 town of Dover. On the site is a classic montrol (campsite) where the Normans
 landed after their victorious conquest.
 
-Saxon and early Norman\[edit\]
+## Saxon and early Norman
 
 The view down from the Castle to the Church, possible Saxon
 burgh, and Harbour beyond.
