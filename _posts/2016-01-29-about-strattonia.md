@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T01:01:49.543Z'
-dateModified: '2016-01-30T01:01:47.550Z'
+datePublished: '2016-01-30T01:03:20.072Z'
+dateModified: '2016-01-30T01:01:54.797Z'
 title: About Strattonia
 author: []
 sourcePath: _posts/2016-01-29-about-strattonia.md
@@ -23,6 +23,6 @@ _type: WebPage
 
 ---
 Tyler Stratton is on a journey
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/366cb754-d2cc-4755-9999-c7e4befd8719.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/3da1cddf05ce2bb7e982f607c5c3d0696eab8f79.jpg)
 
 Trying to see the best Castles in the UK and some family in Malta.
