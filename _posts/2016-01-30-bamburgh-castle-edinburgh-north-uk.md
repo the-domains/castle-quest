@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:51:06.857Z'
-dateModified: '2016-01-30T05:51:04.356Z'
+datePublished: '2016-01-30T07:03:03.003Z'
+dateModified: '2016-01-30T07:02:59.987Z'
 author: []
 title: 'Bamburgh Castle, Edinburgh North UK'
 sourcePath: _posts/2016-01-30-bamburgh-castle-edinburgh-north-uk.md
@@ -24,7 +24,7 @@ _type: Article
 
 ---
 # Bamburgh Castle, Edinburgh North UK
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/90183a0110034dfdd070cfdd8034fd90ef1f1041.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/a745ecee73cd45127a976a80f5b087ca206e2b86.jpg)
 
 King Arthur (2004) was filmed here! Built on a dolerite outcrop, the location was previously
 home to a fort of the native Britons known as Din Guarie and may have been the
