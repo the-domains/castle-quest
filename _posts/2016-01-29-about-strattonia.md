@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T01:01:49.469Z'
+datePublished: '2016-01-30T01:01:49.543Z'
 dateModified: '2016-01-30T01:01:47.550Z'
 title: About Strattonia
 author: []
