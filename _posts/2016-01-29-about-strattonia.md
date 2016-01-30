@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:22:58.564Z'
-dateModified: '2016-01-30T05:19:23.083Z'
+datePublished: '2016-01-30T07:41:46.432Z'
+dateModified: '2016-01-30T07:41:43.626Z'
 title: "Tyler's Journey"
 author: []
 sourcePath: _posts/2016-01-29-about-strattonia.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: about-strattonia/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Tyler's Journey
