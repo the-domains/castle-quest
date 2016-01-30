@@ -4,8 +4,20 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 08:26:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 08:27:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Windsor Castle, South London]]></title>
+            <description><![CDATA[<article><h1>Windsor Castle, South London</h1><p>Windsor Castle is a royal residence at Windsor in the
+English county of Berkshire. The castle is notable for its long association
+with the English and later British royal family and also for its architecture.
+The original castle was built in the 11th century after the Norman invasion by
+William the Conqueror. Since the time of Henry I, it has been used by
+succeeding monarchs and is the longest-occupied palace in Europe. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a6466429743024a42f2c2878a3c8476875ce157b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/windsor-castle-south-london/index.html</link>
+            <guid isPermaLink="false">d4749878-b716-4927-b8e9-ee59c22e5d96</guid>
+            <pubDate>Sat, 30 Jan 2016 08:17:54 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Beaumaris Castle, ~Liverpool]]></title>
             <description><![CDATA[<article><h1>Beaumaris Castle, ~Liverpool</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0526194bc75a39eb82593051858332ed578bce0c.jpg"></article>]]></description>
@@ -88,20 +100,6 @@ by contemporaries to be the equal of any other in England or Wales. </p><img sr
             <link>https://thegrid.ai/castle-quest/about-strattonia/index.html</link>
             <guid isPermaLink="false">9433e6d1-b6f9-47e4-8e8d-990d5be6918e</guid>
             <pubDate>Sat, 30 Jan 2016 08:07:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bamburgh Castle, Edinburgh North UK]]></title>
-            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>King Arthur (2004) was filmed here! Built on a dolerite outcrop, the location was previously
-home to a fort of the native Britons known as Din Guarie and may have been the
-capital of the British kingdom of the region (see Gododdin, Bryneich and Hen
-Ogledd)[2] from the realm's foundation in c.420 until 547, the year of the
-first written reference to the castle. In that year the citadel was captured by
-the Anglo-Saxon ruler Ida of Bernicia (Beornice) and became Ida's seat. It was
-briefly retaken by the Britons from his son Hussa during the war of 590 before
-being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e2da173c80eecf0d89bfe64d19d2469d278a892.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
-            <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
-            <pubDate>Sat, 30 Jan 2016 07:03:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
