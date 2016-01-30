@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:42:24.997Z'
-dateModified: '2016-01-30T04:42:22.038Z'
+datePublished: '2016-01-30T04:53:56.784Z'
+dateModified: '2016-01-30T04:53:55.765Z'
 author: []
 title: 'Bodiam Castle, Sussex'
 sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
@@ -37,7 +37,9 @@ details and situation in an artificial watery landscape indicate that display
 was an important aspect of the castle's design as well as defence. It was the
 home of the Dalyngrigge family and the centre of the manor of Bodiam.
 
-Possession of Bodiam Castle passed through several
+## Possession of Bodiam Castle
+
+passed through several
 generations of Dalyngrigges, until their line became extinct, when the castle
 passed by marriage to the Lewknor family. During the Wars of the Roses, Sir
 Thomas Lewknor supported the House of Lancaster, and when Richard III of the
