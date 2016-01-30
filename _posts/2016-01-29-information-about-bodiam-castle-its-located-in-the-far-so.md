@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:53:56.784Z'
-dateModified: '2016-01-30T04:53:55.765Z'
+datePublished: '2016-01-30T04:54:07.505Z'
+dateModified: '2016-01-30T04:54:05.888Z'
 author: []
 title: 'Bodiam Castle, Sussex'
 sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
