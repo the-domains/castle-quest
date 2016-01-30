@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.google.com/search?q=dover+castle&espv=2&biw=1311&bih=778&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiRo8PCvdDKAhVHyGMKHdsjCYsQ_AUIBigB#imgrc=H5hiEnx_wnjCjM%3A'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:58:40.631Z'
-dateModified: '2016-01-30T04:58:37.589Z'
+datePublished: '2016-01-30T05:03:16.507Z'
+dateModified: '2016-01-30T05:03:13.073Z'
 author: []
 title: 'Dover Castle, Dover England'
 sourcePath: _posts/2016-01-30-dover-castle-dover-england.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.google.com
   url: null
   favicon: null
+url: dover-castle-dover-england/index.html
 _context: 'http://schema.org'
 _type: Article
 
