@@ -4,11 +4,18 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 05:30:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 05:31:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Conway Castle, North Wales]]></title>
+            <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/conway-castle-north-wales/index.html</link>
+            <guid isPermaLink="false">a17cfd49-be0a-4fc5-ad25-ea5cef5d7d0a</guid>
+            <pubDate>Sat, 30 Jan 2016 05:23:22 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Bamburgh Castle, Edinburgh North UK]]></title>
-            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/169d98d8d0d46eb770771b99cbb11314e065129a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>, </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/90183a0110034dfdd070cfdd8034fd90ef1f1041.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
             <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
             <pubDate>Sat, 30 Jan 2016 05:22:47 GMT</pubDate>
@@ -98,26 +105,6 @@ Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us
             <link>https://thegrid.ai/castle-quest/bodiam-castle-sussex/index.html</link>
             <guid isPermaLink="false">ac4ec467-3949-4df8-83a3-37a36e734159</guid>
             <pubDate>Sat, 30 Jan 2016 05:23:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Raglan Castle, Wales]]></title>
-            <description><![CDATA[<article><h1>Raglan Castle, Wales</h1><p>Raglan Castle (Welsh: Castell Rhaglan) is a late medieval
-castle located just north of the village of Raglan in the county of
-Monmouthshire in south east Wales. The modern castle dates from between the
-15th and early 17th-centuries, when the successive ruling families of the
-Herberts and the Somersets created a luxurious, fortified castle, complete with
-a large hexagonal keep, known as the Great Tower or the Yellow Tower of Gwent.
-Surrounded by parkland, water gardens and terraces, the castle was considered
-by contemporaries to be the equal of any other in England or Wales. During the
-English Civil War the castle was held on behalf of Charles I and was taken by
-Parliamentary forces in 1646. In the aftermath, the castle was slighted, or
-deliberately put beyond military use; after the restoration of Charles II, the
-Somersets declined to restore the castle. Raglan Castle became first a source
-of local building materials, then a romantic ruin, and is now a modern tourist
-attraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3caa812102512586b146b2433b7baf6c4b7f2d1.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
-            <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
-            <pubDate>Sat, 30 Jan 2016 03:42:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
