@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T07:54:40.479Z'
-dateModified: '2016-01-30T07:54:37.194Z'
+datePublished: '2016-01-30T08:11:10.287Z'
+dateModified: '2016-01-30T08:11:05.188Z'
 title: The Island of Malta
 author: []
 sourcePath: _posts/2016-01-30-malta-the-mediterranean.md
@@ -25,9 +25,9 @@ _type: Article
 # The Island of Malta
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61d3bac6-a716-4925-927f-db121447ec31.png)
 
-Marian and Brian live somewhere on Malta. Working out where and how exactly to get there and back out again. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/84363039-a910-4934-a0dd-cf7dc769dafa.jpg)
+Marian and Brian live somewhere on Malta. Working out where and how exactly to get there and back out again. 
 
-# Wiki Article about Malta
+## Wiki Article about Malta
 
 Malta (Listeni/ˈmɒltə/; Maltese: \[ˈmɐltɐ\]), officially the
 Republic of Malta (Maltese: Repubblika ta' Malta), is a Southern European
@@ -39,7 +39,6 @@ since the Second World War),\[2\] making it one of the world's smallest\[7\]\[8\
 and most densely populated countries. The capital of Malta is Valletta, which
 at 0.8 km2, is the smallest national capital in the European Union.\[10\] Malta
 has two official languages: Maltese and English.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/cce4ebec-6910-4adb-a903-2afc3500b131.jpg)
 
 Malta's location has historically given it great strategic
 importance as a naval base, and a succession of powers, including the
