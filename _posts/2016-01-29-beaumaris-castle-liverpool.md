@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:23:18.815Z'
-dateModified: '2016-01-30T05:19:42.435Z'
+datePublished: '2016-01-30T05:54:28.959Z'
+dateModified: '2016-01-30T05:54:25.831Z'
 author: []
 title: 'Beaumaris Castle, ~Liverpool'
 sourcePath: _posts/2016-01-29-beaumaris-castle-liverpool.md
@@ -33,9 +33,7 @@ construct the castle in 1284, but this was delayed due to lack of funds and
 work only began in 1295 following the Madog ap Llywelyn uprising. A substantial
 workforce was employed in the initial years under the direction of James of St
 George. Edward's invasion of Scotland soon diverted funding from the project,
-however, and work stopped, only recommencing after an invasion scare in 1306\.
-When work finally ceased around 1330 a total of £15,000 had been spent, a huge
-sum for the period, but the castle remained incomplete.
+however, and work stopped, only recommencing after an invasion scare in 1306\. 
 
 ## Beaumaris Castle 
 
