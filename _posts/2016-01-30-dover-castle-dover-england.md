@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T05:03:16.703Z'
-dateModified: '2016-01-30T05:03:13.073Z'
+datePublished: '2016-01-30T05:22:52.397Z'
+dateModified: '2016-01-30T05:18:46.828Z'
 author: []
 title: 'Dover Castle, Dover England'
 sourcePath: _posts/2016-01-30-dover-castle-dover-england.md
@@ -31,11 +31,7 @@ founded in the 11th century and has been described as the "Key to
 England" due to its defensive significance throughout history. It is
 the largest castle in England.
 
-History\[edit\]
-
-The Roman lighthouse at Dover Castle
-
-The site may have been fortified with earthworks in the Iron
+The Roman lighthouse at Dover Castle, the site may have been fortified with earthworks in the Iron
 Age or earlier, before the Romans invaded in AD43\. This is suggested on the
 basis of the unusual pattern of the earthworks which does not seem to be a
 perfect fit for the medieval castle. Excavations have provided evidence of Iron
@@ -83,7 +79,7 @@ Dover Castle, their names were: William d'Albrincis; Fulberl de Dover, William
 d'Arsic; Geoffrey Peverell; William Maminot; Robert du Port; Hugh Crevecoeur;
 and Adam Fitzwilliam.
 
-Henry II to early modern times\[edit\]
+## Henry II to early modern times
 
 Section of the western curtain wall leading to Peverell's
 Gateway
@@ -122,9 +118,7 @@ Paris Observatory. This work was overseen by General William Roy. The other
 English viewpoint used to make measurements across to Cap Blanc Nez in France
 was at Fairlight, East Sussex.
 
-Napoleonic\[edit\]
-
-Dover Castle in 2011\.
+## Dover Castle in 2011\.
 
 Massive rebuilding took place at the end of the 18th century
 during the Napoleonic Wars. William Twiss, the Commanding Engineer of the
@@ -154,7 +148,7 @@ converted and used by the Coast Blockade Service to combat smuggling. This was
 a short-term endeavour though, and in 1827 the headquarters were moved closer
 to shore. The tunnels then remained abandoned for more than a century.
 
-The secret wartime tunnels\[edit\]
+## The secret wartime tunnels
 
 The Second World War Coastal Artillery Operations Room in
 the Secret Wartime Tunnels
@@ -201,7 +195,7 @@ three miles of these Tunnels going deep down into the chalky cliffs, some still
 undiscovered. There are tunnels that are far too dangerous to walk down. Full
 information about these tunnels is not due to be released until 2020-2025\.
 
-The castle today\[edit\]
+## The castle today
 
 Dover Castle is a Scheduled Monument,\[9\] which means it is a
 "nationally important" historic building and archaeological site that
