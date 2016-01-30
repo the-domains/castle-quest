@@ -1,14 +1,13 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://www.google.com/maps/place/Bodiam+Castle/@51.2332932,-1.7141414,8z/data=!4m2!3m1!1s0x47df17e53b1fc91f:0xa49a1915dff0aeb'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:54:07.507Z'
-dateModified: '2016-01-30T04:54:05.888Z'
+datePublished: '2016-01-30T05:23:08.520Z'
+dateModified: '2016-01-30T05:20:44.489Z'
 author: []
 title: 'Bodiam Castle, Sussex'
 sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
@@ -19,6 +18,7 @@ publisher:
   domain: www.google.com
   url: null
   favicon: null
+url: bodiam-castle-sussex/index.html
 _context: 'http://schema.org'
 _type: Article
 
