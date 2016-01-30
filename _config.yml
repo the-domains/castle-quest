@@ -1,6 +1,6 @@
 name: Castle Quest
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.50624
 typography_spectrum: 0.58111
 title: Strattonia Castles
 cta:
@@ -22,8 +22,8 @@ color:
     - '#fefefe'
     - '#525252'
     - '#b8b8b8'
-  brandStrength: 0.5
+  brandStrength: 0.75
   lightness: 0.1875
-  saturation: 0.8125
-  rhythmicContrast: 0.5
+  saturation: 0.6875
+  rhythmicContrast: 0.25
 purpose: []
