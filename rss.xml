@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 03:39:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 03:40:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -72,24 +72,24 @@ the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/t
         </item>
         <item>
             <title><![CDATA[Bodiam Castle, Sussex]]></title>
-            <description><![CDATA[<article><h1>Bodiam Castle, Sussex</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2d80113787f4f50d1957e97e6cbed47737b4bd9.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Bodiam Castle, Sussex</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6f4b56839d10d08ff59908a0696c24d15e89a8e1.jpg"></article>]]></description>
             <link>https://www.google.com/maps/place/Bodiam+Castle/@51.2332932,-1.7141414,8z/data=!4m2!3m1!1s0x47df17e53b1fc91f:0xa49a1915dff0aeb</link>
             <guid isPermaLink="false">ac4ec467-3949-4df8-83a3-37a36e734159</guid>
             <pubDate>Sat, 30 Jan 2016 03:39:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Raglan Castle, Wales]]></title>
-            <description><![CDATA[<article><h1>Raglan Castle, Wales</h1><p>Located near Caerphilly Castle. Probably worth checking out. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3caa812102512586b146b2433b7baf6c4b7f2d1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Raglan Castle, Wales</h1><p>Testing one Description</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3caa812102512586b146b2433b7baf6c4b7f2d1.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
             <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
-            <pubDate>Sat, 30 Jan 2016 03:16:13 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 03:40:02 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Conway Castle, North Wales]]></title>
-            <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><p>located in Wales. It's far West in the south tip. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
             <link>https://www.google.com/maps/place/Conwy+Castle/@53.280059,-8.3080406,6z/data=!4m2!3m1!1s0x48651e85d4cd176d:0x4c407a5d3d49f90c</link>
             <guid isPermaLink="false">a17cfd49-be0a-4fc5-ad25-ea5cef5d7d0a</guid>
-            <pubDate>Sat, 30 Jan 2016 02:10:09 GMT</pubDate>
+            <pubDate>Sat, 30 Jan 2016 03:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
