@@ -4,7 +4,7 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 03:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 03:43:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/castle-quest/fa43a877-df42-422d-84c7-2804da3fba87/index.html</link>
             <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
             <pubDate>Sat, 30 Jan 2016 03:41:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Caerphilly Castle]]></title>
+            <description><![CDATA[<article><h1>Caerphilly Castle</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b8367dc597c9d8fc6dd8af8c353cd3fe4acada2e.jpg"></article>]]></description>
+            <link>https://www.google.com/maps/place/Caerphilly+Castle/@51.576459,-3.2231887,16z/data=!4m2!3m1!1s0x486e194782afe35d:0xce745b13000b5cbf</link>
+            <guid isPermaLink="false">ac70eb52-178c-4fe0-8359-88bd8cbed852</guid>
+            <pubDate>Sat, 30 Jan 2016 03:42:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Great castles across Wales]]></title>
@@ -92,17 +99,10 @@ Parliamentary forces in 1646. In the aftermath, the castle was slighted, or
 deliberately put beyond military use; after the restoration of Charles II, the
 Somersets declined to restore the castle. Raglan Castle became first a source
 of local building materials, then a romantic ruin, and is now a modern tourist
-attraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1a1009898d142fc776f873031aed8ab4c3de28bb.jpg"></article>]]></description>
+attraction.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a3caa812102512586b146b2433b7baf6c4b7f2d1.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/raglan-castle/index.html</link>
             <guid isPermaLink="false">29e45407-4f0d-4f57-b3d9-015582f0f77e</guid>
             <pubDate>Sat, 30 Jan 2016 03:42:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Conway Castle, North Wales]]></title>
-            <description><![CDATA[<article><h1>Conway Castle, North Wales</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/365efbff8bef27f75d6a014e8aad0d824e8bd5b1.jpg"></article>]]></description>
-            <link>https://www.google.com/maps/place/Conwy+Castle/@53.280059,-8.3080406,6z/data=!4m2!3m1!1s0x48651e85d4cd176d:0x4c407a5d3d49f90c</link>
-            <guid isPermaLink="false">a17cfd49-be0a-4fc5-ad25-ea5cef5d7d0a</guid>
-            <pubDate>Sat, 30 Jan 2016 03:40:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
