@@ -4,8 +4,15 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 07:53:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 07:56:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a0b2b29-9574-4349-8190-8e326da70364.jpg" alt="" title="">]]></description>
+            <link>https://thegrid.ai/castle-quest/12551a51-1b08-48ef-bf92-0e7a9e04de36/index.html</link>
+            <guid isPermaLink="false">12551a51-1b08-48ef-bf92-0e7a9e04de36</guid>
+            <pubDate>Wed, 03 Feb 2016 07:56:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a11d5335-3a0e-4d3f-a21c-013d4d72bc00.jpg" alt="" title="">]]></description>
@@ -92,18 +99,6 @@ being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.
             <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
             <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
             <pubDate>Sat, 30 Jan 2016 08:19:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Windsor Castle, South London]]></title>
-            <description><![CDATA[<article><h1>Windsor Castle, South London</h1><p>Windsor Castle is a royal residence at Windsor in the
-English county of Berkshire. The castle is notable for its long association
-with the English and later British royal family and also for its architecture.
-The original castle was built in the 11th century after the Norman invasion by
-William the Conqueror. Since the time of Henry I, it has been used by
-succeeding monarchs and is the longest-occupied palace in Europe. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff74506ec4a51f9168f524290836e0e32cd9c695.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/windsor-castle-south-london/index.html</link>
-            <guid isPermaLink="false">d4749878-b716-4927-b8e9-ee59c22e5d96</guid>
-            <pubDate>Sat, 30 Jan 2016 08:17:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
