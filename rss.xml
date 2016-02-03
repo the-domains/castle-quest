@@ -4,8 +4,15 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 07:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 07:29:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Castillo de Butron, Spain]]></title>
+            <description><![CDATA[<article><h1>Castillo de Butron, Spain</h1><p>https://en.wikipedia.org/wiki/Butr%C3%B3n</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aac60207cacf57494074ba59733f793b42d26b3a.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/castillo-de-butron-spain/index.html</link>
+            <guid isPermaLink="false">ba802f6f-0c3f-4f38-8409-a7938a59725e</guid>
+            <pubDate>Wed, 03 Feb 2016 07:29:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Spis Castle, Slovakia]]></title>
             <description><![CDATA[<article><h1>Spis Castle, Slovakia</h1><p>https://en.wikipedia.org/wiki/Spi%C5%A1_Castle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/173197afec594000cef97f85b09e3d8364c6e1ab.jpg"></article>]]></description>
@@ -15,7 +22,7 @@
         </item>
         <item>
             <title><![CDATA[Castle of The Templars, León, Spain]]></title>
-            <description><![CDATA[<article><h1>Castle of The Templars, León, Spain</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c561aafcf61d0908ffde064964089a42a511c589.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Castle of The Templars, León, Spain</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d388e6d236ddb0ff22de1b013829b458abe13e06.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/castle-of-the-templars-leon-spain/index.html</link>
             <guid isPermaLink="false">ceb9b556-6036-4bc4-a3f4-08f79c4c3429</guid>
             <pubDate>Wed, 03 Feb 2016 07:23:34 GMT</pubDate>
@@ -88,16 +95,6 @@ succeeding monarchs and is the longest-occupied palace in Europe. </p><img src=
             <link>https://thegrid.ai/castle-quest/conway-castle-north-wales/index.html</link>
             <guid isPermaLink="false">a17cfd49-be0a-4fc5-ad25-ea5cef5d7d0a</guid>
             <pubDate>Sat, 30 Jan 2016 08:37:18 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dover Castle, Dover England]]></title>
-            <description><![CDATA[<article><h1>Dover Castle, Dover England</h1><p>Dover Castle is a medieval castle in Dover, Kent. It was
-founded in the 11th century and has been described as the "Key to
-England" due to its defensive significance throughout history. It is
-the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4fc80a372560093ad79bfec8ebf9e8c2cf9dfde8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/dover-castle-dover-england/index.html</link>
-            <guid isPermaLink="false">949f8100-3a9f-4fdb-8b22-7b64f953383b</guid>
-            <pubDate>Sat, 30 Jan 2016 08:18:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
