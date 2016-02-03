@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-03T07:40:01.648Z'
-dateModified: '2016-02-03T07:39:58.811Z'
+datePublished: '2016-02-03T07:41:19.152Z'
+dateModified: '2016-02-03T07:41:16.815Z'
 author: []
 title: 'Bodiam Castle, Sussex'
 sourcePath: _posts/2016-01-29-information-about-bodiam-castle-its-located-in-the-far-so.md
@@ -26,7 +26,7 @@ _type: Article
 # Bodiam Castle, Sussex
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b55451315cb61bd0ecf0ca7b891fe17e5aa2feaa.jpg)
 
-Also See Arundel Castle in West Sussex
+Also See Arundel Castle in West Sussex - Harry Potter?
 
 Bodiam Castle (/ˈboʊdiəm/) is a 14th-century moated castle
 near Robertsbridge in East Sussex, England. It was built in 1385 by Sir Edward
