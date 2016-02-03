@@ -4,8 +4,15 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 07:24:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 07:25:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Spis Castle, Slovakia]]></title>
+            <description><![CDATA[<article><h1>Spis Castle, Slovakia</h1><p>https://en.wikipedia.org/wiki/Spi%C5%A1_Castle</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/173197afec594000cef97f85b09e3d8364c6e1ab.jpg"></article>]]></description>
+            <link>http://all-that-is-interesting.com/incredible-castles</link>
+            <guid isPermaLink="false">118f6888-1daa-46b5-a457-7151b3f0ddae</guid>
+            <pubDate>Wed, 03 Feb 2016 07:25:50 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Castle of The Templars, León, Spain]]></title>
             <description><![CDATA[<article><h1>Castle of The Templars, León, Spain</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c561aafcf61d0908ffde064964089a42a511c589.jpg"></article>]]></description>
@@ -91,23 +98,6 @@ the largest castle in England.</p><img src="https://s3-us-west-2.amazonaws.com/t
             <link>https://thegrid.ai/castle-quest/dover-castle-dover-england/index.html</link>
             <guid isPermaLink="false">949f8100-3a9f-4fdb-8b22-7b64f953383b</guid>
             <pubDate>Sat, 30 Jan 2016 08:18:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caernarfon Castle, West Wales]]></title>
-            <description><![CDATA[<article><h1>Caernarfon Castle, West Wales</h1><p>While the castle was under construction, town walls were
-built around Caernarfon. The work cost between £20,000 and £25,000 from the
-start until the end of work in 1330. Despite Caernarfon Castle's external
-appearance of being mostly complete, the interior buildings no longer survive
-and many of the building plans were never finished. The town and castle were
-sacked in 1294 when Madog ap Llywelyn led a rebellion against the English.
-Caernarfon was recaptured the following year. During the Glyndŵr Rising of
-1400–1415, the castle was besieged. When the Tudor dynasty ascended to the
-English throne in 1485, tensions between the Welsh and English began to
-diminish and castles were considered less important. As a result, Caernarfon
-Castle was allowed to fall into a state of disrepair.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/036b62dde5d76a7b37e02ef932b4995df1c8d12e.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/caernarfon-castle-west-wales/index.html</link>
-            <guid isPermaLink="false">1887a679-98c0-4f9d-874e-8ad546441418</guid>
-            <pubDate>Sat, 30 Jan 2016 08:16:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
