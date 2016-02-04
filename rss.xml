@@ -4,8 +4,15 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 07:56:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Feb 2016 01:37:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Obidos, Portugal (west of Spain)]]></title>
+            <description><![CDATA[<article><h1>Obidos, Portugal (west of Spain)</h1><p>Obidos is a town/area and the Castle overlooks that area. Looks like I could stay in the town right next to the castle. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ede548d6095eed05125a8ef28b4f96af1283aa7.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/obidos-portugal-west-of-spain/index.html</link>
+            <guid isPermaLink="false">7cc2da83-c30a-4036-a89d-1f3992a2d0c5</guid>
+            <pubDate>Thu, 04 Feb 2016 01:36:41 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a0b2b29-9574-4349-8190-8e326da70364.jpg" alt="" title="">]]></description>
@@ -85,20 +92,6 @@ defences to Britain and for its large gatehouses.</p></article>]]></description>
             <link>https://thegrid.ai/castle-quest/trim-castle-ireland-alt/index.html</link>
             <guid isPermaLink="false">d3d57fde-ed20-4968-852f-74f490e21b3f</guid>
             <pubDate>Sat, 30 Jan 2016 08:20:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bamburgh Castle, Edinburgh North UK]]></title>
-            <description><![CDATA[<article><h1>Bamburgh Castle, Edinburgh North UK</h1><p>King Arthur (2004) was filmed here! Built on a dolerite outcrop, the location was previously
-home to a fort of the native Britons known as Din Guarie and may have been the
-capital of the British kingdom of the region (see Gododdin, Bryneich and Hen
-Ogledd)[2] from the realm's foundation in c.420 until 547, the year of the
-first written reference to the castle. In that year the citadel was captured by
-the Anglo-Saxon ruler Ida of Bernicia (Beornice) and became Ida's seat. It was
-briefly retaken by the Britons from his son Hussa during the war of 590 before
-being relieved later the same year.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2e2da173c80eecf0d89bfe64d19d2469d278a892.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/bamburgh-castle-edinburgh-north-uk/index.html</link>
-            <guid isPermaLink="false">d3c1a6a9-20ca-4edf-9238-62738160ef67</guid>
-            <pubDate>Sat, 30 Jan 2016 08:19:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
