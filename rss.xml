@@ -4,11 +4,18 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 04 Feb 2016 01:43:04 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 22:14:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Europe Plans]]></title>
+            <description><![CDATA[<article><h1>Europe Plans</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/571d148982965f5ce42d7e90dda90965f579dec2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/castle-quest/europe-plans/index.html</link>
+            <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
+            <pubDate>Fri, 05 Feb 2016 22:13:09 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Gravensteen, Belgium]]></title>
-            <description><![CDATA[<article><h1>Gravensteen, Belgium</h1><p>Located West of Germany. Pretty bad ass. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f365c3321b8c39380c8744d2e8e9525445cca668.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Gravensteen, Belgium</h1><p>Located West of Germany. Pretty bad ass. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f926de7f2a71d35b92f73b7f963a2f7829418702.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/gravensteen-belgium/index.html</link>
             <guid isPermaLink="false">666bd631-39b1-4dfe-aebd-e37196cb442a</guid>
             <pubDate>Thu, 04 Feb 2016 01:41:18 GMT</pubDate>
@@ -77,21 +84,6 @@ home of the Dalyngrigge family and the centre of the manor of Bodiam.</p><img sr
             <link>https://thegrid.ai/castle-quest/castle-of-the-templars-leon-spain/index.html</link>
             <guid isPermaLink="false">ceb9b556-6036-4bc4-a3f4-08f79c4c3429</guid>
             <pubDate>Wed, 03 Feb 2016 07:23:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Caerphilly Castle]]></title>
-            <description><![CDATA[<article><h1>Caerphilly Castle</h1><p>Caerphilly Castle (Welsh: Castell Caerffili) is a medieval
-fortification in Caerphilly in South Wales. The castle was constructed by
-Gilbert de Clare in the 13th century as part of his campaign to conquer
-Glamorgan, and saw extensive fighting between Gilbert and his descendants and
-the native Welsh rulers. Surrounded by extensive artificial lakes – considered
-by historian Allen Brown to be "the most elaborate water defences in all
-Britain" – it occupies around 30 acres (12 ha) and is the second largest
-castle in Britain.[1] It is famous for having introduced concentric castle
-defences to Britain and for its large gatehouses.</p></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/caerphilly-castle/index.html</link>
-            <guid isPermaLink="false">ac70eb52-178c-4fe0-8359-88bd8cbed852</guid>
-            <pubDate>Wed, 03 Feb 2016 06:24:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
