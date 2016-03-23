@@ -4,14 +4,26 @@
         <description><![CDATA[The Strattonian Castles]]></description>
         <link>https://thegrid.ai/castle-quest/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 22:14:05 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2016 16:40:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/castle-quest/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Europe Plans]]></title>
-            <description><![CDATA[<article><h1>Europe Plans</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/571d148982965f5ce42d7e90dda90965f579dec2.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Europe Plans</h1><p>Arianna's notes for ENG if you end up there:
+-- Museum of Torture in York, England
+--Go to York*****
+--Lewes, England -- Henry the 8th used to keep all his wives there and built castles for them
+--Hastings battle of 1066
+--the Yorshire Moores - northern England</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/571d148982965f5ce42d7e90dda90965f579dec2.jpg"></article>]]></description>
             <link>https://thegrid.ai/castle-quest/europe-plans/index.html</link>
             <guid isPermaLink="false">fa43a877-df42-422d-84c7-2804da3fba87</guid>
             <pubDate>Fri, 05 Feb 2016 22:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://www.google.com/search?q=isle+of+man+castle&source=lnms&tbm=isch&sa=X&ved=0ahUKEwiFvfzRidbLAhVU-WMKHaNADVoQ_AUIBygB&biw=1109&bih=613#imgrc=_</p>]]></description>
+            <link>https://thegrid.ai/castle-quest/httpswwwgooglecomsearchqisleofmancastleandsourceln/index.html</link>
+            <guid isPermaLink="false">c86927dc-eb5f-49d9-ae7c-21b3dc4f2821</guid>
+            <pubDate>Wed, 23 Mar 2016 16:40:47 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Gravensteen, Belgium]]></title>
@@ -77,13 +89,6 @@ home of the Dalyngrigge family and the centre of the manor of Bodiam.</p><img sr
             <link>http://all-that-is-interesting.com/incredible-castles</link>
             <guid isPermaLink="false">118f6888-1daa-46b5-a457-7151b3f0ddae</guid>
             <pubDate>Wed, 03 Feb 2016 07:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Castle of The Templars, León, Spain]]></title>
-            <description><![CDATA[<article><h1>Castle of The Templars, León, Spain</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d388e6d236ddb0ff22de1b013829b458abe13e06.jpg"></article>]]></description>
-            <link>https://thegrid.ai/castle-quest/castle-of-the-templars-leon-spain/index.html</link>
-            <guid isPermaLink="false">ceb9b556-6036-4bc4-a3f4-08f79c4c3429</guid>
-            <pubDate>Wed, 03 Feb 2016 07:23:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
